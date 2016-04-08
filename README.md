@@ -1,5 +1,5 @@
 # Library-app
-Implementation of the app from the Ember.js 2 tutorial at https://yoember.com
+Implementation of the app from the Ember.js 2 tutorial at http://yoember.com
 
 ## Prerequisites
 
