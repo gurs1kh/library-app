@@ -1,7 +1,5 @@
 # Library-app
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Implementation of the app from the Ember.js 2 tutorial at https://yoember.com
 
 ## Prerequisites
 

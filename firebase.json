@@ -1,0 +1,8 @@
+{
+    "firebase": "emberjs2-library-app",
+    "public": "dist",
+    "rewrites": [{
+        "source": "**",
+        "destination": "/index.html"
+    }]
+}
